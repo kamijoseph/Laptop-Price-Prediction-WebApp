@@ -1,6 +1,6 @@
 # 🧠 Streamlit Diabetes Prediction WebApp
 
-🔗 **Live Demo**: [Click here to try the deployed app](https://diabetespredictor-ftfgefmpm9jxvr5uninjhz.streamlit.app/)
+🔗 **Live Demo**: [Click here to try the deployed app](https://laptop-price-prediction-webapp-g97dnhzozjo3mpyoibb8sh.streamlit.app/)
 
 ---
 
@@ -83,4 +83,4 @@ Built by @kamijoseph using Streamlit
 ---
 
 ### Built by [@kamijoseph](https://github.com/kamijoseph) using [Streamlit](https://streamlit.io/)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://diabetespredictor-ftfgefmpm9jxvr5uninjhz.streamlit.app/)
+[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://laptop-price-prediction-webapp-g97dnhzozjo3mpyoibb8sh.streamlit.app/)
